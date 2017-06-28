@@ -1,3 +1,6 @@
 # LoginInKotlin
 
-Testing using mockito
+## Used
+Kotlin
+MVP
+Mockito
